@@ -6,3 +6,8 @@
 .yellow {
     background-color: yellow;
 }
+
+.font {
+    font-size: 28px;
+    font: helvetica, "Times New Roman", sans-serif;
+}
